@@ -1,4 +1,4 @@
-# Maia
+# Reverter palavras
 var palavra;
 
 function reverse(palavra){
